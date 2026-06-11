@@ -23,9 +23,9 @@ the single-purchase behavior of this dataset.
 ## Files
 | File | Description |
 |------|-------------|
-| `/brazilian_ecommerce_analysis.sql` | 9 KPI queries across 8 relational tables |
+| `brazilian_ecommerce_analysis.sql` | 9 KPI queries across 8 relational tables |
 | `cohort_retention.ipynb` | Python cohort analysis + retention curve |
-| `ecommerce_dashboard.pbix` | 4-page Power BI dashboard |
+| `ecommerce_dashboard.pdf` | 4-page Power BI dashboard |
 
 ## Dashboard Pages
 1. **Introduction** — Revenue, orders, AOV, repeat purchase rate
