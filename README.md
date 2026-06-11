@@ -23,7 +23,7 @@ the single-purchase behavior of this dataset.
 ## Files
 | File | Description |
 |------|-------------|
-| `analysis_queries.sql` | 9 KPI queries across 8 relational tables |
+| `/brazilian_ecommerce_analysis.sql` | 9 KPI queries across 8 relational tables |
 | `cohort_retention.ipynb` | Python cohort analysis + retention curve |
 | `ecommerce_dashboard.pbix` | 4-page Power BI dashboard |
 
